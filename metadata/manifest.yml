@@ -113,7 +113,7 @@ Version-Overrides:
     Endpoints:
     - Private-IP-Name: EXAMPLE_IP1
       Private-Port-Name: EXAMPLE_PORT1
-      Private-Port: 8200
+      Private-Port: 8123
       Public-Port-Name: EXAMPLE_PUBLIC_PORT1
       Protocols: [tls]
       Mappings:
